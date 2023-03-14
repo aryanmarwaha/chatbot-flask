@@ -1,0 +1,22 @@
+{
+	"user1":{
+	"USER_NAME":"Aryan",
+	"PHONE_NUMBER":"+15075843895",
+	"USER_LOCATION":""
+	},
+	"user2":{
+		"USER_NAME":"Naman",
+		"PHONE_NUMBER":"",
+		"USER_LOCATION":""
+	},
+	"user3":{
+		"USER_NAME":"Nehal",
+		"PHONE_NUMBER":"",
+		"USER_LOCATION":""
+	},
+	"user4":{
+		"USER_NAME":"Sagar",
+		"PHONE_NUMBER":"",
+		"USER_LOCATION":""
+	}
+}
